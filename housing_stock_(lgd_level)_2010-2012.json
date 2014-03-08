@@ -1,0 +1,43 @@
+{
+  "name": "NodeSite",
+  "version": "0.0.1",
+  "author": "nisra",
+  "description": "housing stock data lps",
+  "contributors": [],
+  "main": "./server.js",
+  "keywords": [],
+  "dependencies": {},
+  "noAnalyze": true,
+  "engines": {
+    "node": ">=0.6"
+  },  
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
+
+[{"LGD":"Antrim","Occupied Stock 2010":19229,"Vacant Stock 2010":1194,"Housing Stock 2010":20423,"Occupied Stock 2011":19562,"Vacant Stock 2011":954,"Housing Stock 2011":20516,"Occupied Stock 2012":19863,"Vacant Stock 2012":672,"Housing Stock 2012":20535},
+{"LGD":"Ards","Occupied Stock 2010":31721,"Vacant Stock 2010":2093,"Housing Stock 2010":33808,"Occupied Stock 2011":32194,"Vacant Stock 2011":1879,"Housing Stock 2011":34073,"Occupied Stock 2012":32713,"Vacant Stock 2012":1444,"Housing Stock 2012":34157},
+{"LGD":"Armagh","Occupied Stock 2010":20941,"Vacant Stock 2010":2045,"Housing Stock 2010":22983,"Occupied Stock 2011":21288,"Vacant Stock 2011":1907,"Housing Stock 2011":23195,"Occupied Stock 2012":21661,"Vacant Stock 2012":1415,"Housing Stock 2012":23076},
+{"LGD":"Ballymena","Occupied Stock 2010":24405,"Vacant Stock 2010":1362,"Housing Stock 2010":25766,"Occupied Stock 2011":24695,"Vacant Stock 2011":1196,"Housing Stock 2011":25891,"Occupied Stock 2012":25072,"Vacant Stock 2012":857,"Housing Stock 2012":25929},
+{"LGD":"Ballymoney","Occupied Stock 2010":11200,"Vacant Stock 2010":824,"Housing Stock 2010":12023,"Occupied Stock 2011":11417,"Vacant Stock 2011":703,"Housing Stock 2011":12120,"Occupied Stock 2012":11574,"Vacant Stock 2012":521,"Housing Stock 2012":12095},
+{"LGD":"Banbridge","Occupied Stock 2010":17738,"Vacant Stock 2010":1490,"Housing Stock 2010":19229,"Occupied Stock 2011":18066,"Vacant Stock 2011":1366,"Housing Stock 2011":19432,"Occupied Stock 2012":18430,"Vacant Stock 2012":1030,"Housing Stock 2012":19460},
+{"LGD":"Belfast","Occupied Stock 2010":121704,"Vacant Stock 2010":8313,"Housing Stock 2010":130024,"Occupied Stock 2011":123396,"Vacant Stock 2011":7983,"Housing Stock 2011":131379,"Occupied Stock 2012":125125,"Vacant Stock 2012":6678,"Housing Stock 2012":131803},
+{"LGD":"Carrickfergus","Occupied Stock 2010":16046,"Vacant Stock 2010":753,"Housing Stock 2010":16797,"Occupied Stock 2011":16224,"Vacant Stock 2011":653,"Housing Stock 2011":16877,"Occupied Stock 2012":16347,"Vacant Stock 2012":536,"Housing Stock 2012":16883},
+{"LGD":"Castlereagh","Occupied Stock 2010":27386,"Vacant Stock 2010":1205,"Housing Stock 2010":28586,"Occupied Stock 2011":27657,"Vacant Stock 2011":1170,"Housing Stock 2011":28827,"Occupied Stock 2012":28022,"Vacant Stock 2012":827,"Housing Stock 2012":28849},
+{"LGD":"Coleraine","Occupied Stock 2010":25870,"Vacant Stock 2010":2469,"Housing Stock 2010":28340,"Occupied Stock 2011":26246,"Vacant Stock 2011":2305,"Housing Stock 2011":28551,"Occupied Stock 2012":26704,"Vacant Stock 2012":1803,"Housing Stock 2012":28507},
+{"LGD":"Cookstown","Occupied Stock 2010":12419,"Vacant Stock 2010":1238,"Housing Stock 2010":13656,"Occupied Stock 2011":12675,"Vacant Stock 2011":1069,"Housing Stock 2011":13744,"Occupied Stock 2012":12916,"Vacant Stock 2012":857,"Housing Stock 2012":13773},
+{"LGD":"Craigavon","Occupied Stock 2010":34997,"Vacant Stock 2010":2815,"Housing Stock 2010":37813,"Occupied Stock 2011":35824,"Vacant Stock 2011":2420,"Housing Stock 2011":38244,"Occupied Stock 2012":36593,"Vacant Stock 2012":1742,"Housing Stock 2012":38335},
+{"LGD":"Derry","Occupied Stock 2010":40584,"Vacant Stock 2010":1975,"Housing Stock 2010":42559,"Occupied Stock 2011":41193,"Vacant Stock 2011":1701,"Housing Stock 2011":42894,"Occupied Stock 2012":41717,"Vacant Stock 2012":1425,"Housing Stock 2012":43142},
+{"LGD":"Down","Occupied Stock 2010":25991,"Vacant Stock 2010":2139,"Housing Stock 2010":28128,"Occupied Stock 2011":26350,"Vacant Stock 2011":2079,"Housing Stock 2011":28429,"Occupied Stock 2012":26758,"Vacant Stock 2012":1676,"Housing Stock 2012":28434},
+{"LGD":"Dungannon","Occupied Stock 2010":18942,"Vacant Stock 2010":2662,"Housing Stock 2010":21604,"Occupied Stock 2011":19560,"Vacant Stock 2011":2280,"Housing Stock 2011":21840,"Occupied Stock 2012":20034,"Vacant Stock 2012":1785,"Housing Stock 2012":21819},
+{"LGD":"Fermanagh","Occupied Stock 2010":23232,"Vacant Stock 2010":2856,"Housing Stock 2010":26087,"Occupied Stock 2011":23616,"Vacant Stock 2011":2634,"Housing Stock 2011":26250,"Occupied Stock 2012":24068,"Vacant Stock 2012":2416,"Housing Stock 2012":26484},
+{"LGD":"Larne","Occupied Stock 2010":13281,"Vacant Stock 2010":1035,"Housing Stock 2010":14316,"Occupied Stock 2011":13507,"Vacant Stock 2011":855,"Housing Stock 2011":14362,"Occupied Stock 2012":13747,"Vacant Stock 2012":627,"Housing Stock 2012":14374},
+{"LGD":"Limavady","Occupied Stock 2010":11662,"Vacant Stock 2010":1159,"Housing Stock 2010":12820,"Occupied Stock 2011":12033,"Vacant Stock 2011":958,"Housing Stock 2011":12991,"Occupied Stock 2012":12250,"Vacant Stock 2012":735,"Housing Stock 2012":12985},
+{"LGD":"Lisburn","Occupied Stock 2010":44427,"Vacant Stock 2010":2788,"Housing Stock 2010":47216,"Occupied Stock 2011":45260,"Vacant Stock 2011":2511,"Housing Stock 2011":47771,"Occupied Stock 2012":46156,"Vacant Stock 2012":1853,"Housing Stock 2012":48009},
+{"LGD":"Magherafelt","Occupied Stock 2010":14420,"Vacant Stock 2010":1172,"Housing Stock 2010":15592,"Occupied Stock 2011":14667,"Vacant Stock 2011":1055,"Housing Stock 2011":15722,"Occupied Stock 2012":14941,"Vacant Stock 2012":760,"Housing Stock 2012":15701},
+{"LGD":"Moyle","Occupied Stock 2010":7560,"Vacant Stock 2010":757,"Housing Stock 2010":8318,"Occupied Stock 2011":7686,"Vacant Stock 2011":751,"Housing Stock 2011":8437,"Occupied Stock 2012":7825,"Vacant Stock 2012":565,"Housing Stock 2012":8390},
+{"LGD":"Newry and Mourne","Occupied Stock 2010":33003,"Vacant Stock 2010":3295,"Housing Stock 2010":36298,"Occupied Stock 2011":33822,"Vacant Stock 2011":2994,"Housing Stock 2011":36816,"Occupied Stock 2012":34521,"Vacant Stock 2012":2413,"Housing Stock 2012":36934},
+{"LGD":"Newtownabbey","Occupied Stock 2010":33885,"Vacant Stock 2010":1286,"Housing Stock 2010":35169,"Occupied Stock 2011":34507,"Vacant Stock 2011":987,"Housing Stock 2011":35494,"Occupied Stock 2012":34777,"Vacant Stock 2012":844,"Housing Stock 2012":35621},
+{"LGD":"North Down","Occupied Stock 2010":32989,"Vacant Stock 2010":1707,"Housing Stock 2010":34691,"Occupied Stock 2011":33354,"Vacant Stock 2011":1589,"Housing Stock 2011":34943,"Occupied Stock 2012":33797,"Vacant Stock 2012":1141,"Housing Stock 2012":34938},
+{"LGD":"Omagh","Occupied Stock 2010":17973,"Vacant Stock 2010":1943,"Housing Stock 2010":19914,"Occupied Stock 2011":18300,"Vacant Stock 2011":1753,"Housing Stock 2011":20053,"Occupied Stock 2012":18610,"Vacant Stock 2012":1482,"Housing Stock 2012":20092},
+{"LGD":"Strabane","Occupied Stock 2010":14726,"Vacant Stock 2010":1143,"Housing Stock 2010":15870,"Occupied Stock 2011":14974,"Vacant Stock 2011":1006,"Housing Stock 2011":15980,"Occupied Stock 2012":15169,"Vacant Stock 2012":823,"Housing Stock 2012":15992}]
